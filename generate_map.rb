@@ -7,5 +7,5 @@ open("https://api.github.com/emojis") {|f|
     { line[0] => $1 }
   }
 
-  File.binwrite("map.json", json)
+  File.binwrite("emoji-anotation-to-unicode.js", 'module.exports = ' + json)
 }

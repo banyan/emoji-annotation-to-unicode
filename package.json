@@ -1,6 +1,6 @@
 {
   "name": "emoji-anotation-to-unicode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Emoji enotation to unicode map",
   "main": "emoji-anotation-to-unicode.js",
   "repository": {

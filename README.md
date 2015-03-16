@@ -1,11 +1,11 @@
-# emoji-anotation-to-unicode
+# emoji-annotation-to-unicode
 
-Map (JSON) for emoji anotation to unicode generated via GitHub API.
+Map (JSON) for emoji annotation to unicode generated via GitHub API.
 
 ## Install
 
 ```
-$ npm install --save emoji-anotation-to-unicode
+$ npm install --save emoji-annotation-to-unicode
 ```
 
 ## Generate

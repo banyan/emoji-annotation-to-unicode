@@ -8,5 +8,5 @@ open("https://api.github.com/emojis") {|f|
     h[line[0]] = $1
   }
   json = JSON.pretty_generate h
-  File.binwrite("emoji-anotation-to-unicode.js", 'module.exports = ' + json)
+  File.binwrite("emoji-annotation-to-unicode.js", 'module.exports = ' + json)
 }

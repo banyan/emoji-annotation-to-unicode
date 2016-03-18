@@ -887,5 +887,5 @@ module.exports = {
   "zap": "26a1",
   "zero": "0030-20e3",
   "zzz": "1f4a4",
-  "simply_smile": "1f642"
+  "simple_smile": "1f642"
 }

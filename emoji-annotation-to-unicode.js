@@ -707,7 +707,7 @@ module.exports = {
   "small_orange_diamond": "1f538",
   "small_red_triangle": "1f53a",
   "small_red_triangle_down": "1f53b",
-  "smile": "1f604",
+  "smile": "1f642",
   "smile_cat": "1f638",
   "smiley": "1f603",
   "smiley_cat": "1f63a",

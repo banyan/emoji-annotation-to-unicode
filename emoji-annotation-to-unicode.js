@@ -886,5 +886,6 @@ module.exports = {
   "yum": "1f60b",
   "zap": "26a1",
   "zero": "0030-20e3",
-  "zzz": "1f4a4"
+  "zzz": "1f4a4",
+  "simply_smile": "1f642"
 }
